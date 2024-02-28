@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CallHierarchySearchScope">
+	</section>
+	<section name="PHPDLTKSearchPage">
+		<item key="CASE_SENSITIVE" value="false"/>
+		<item key="HISTORY_SIZE" value="1"/>
+		<section name="HISTORY0">
+			<item key="searchFor" value="0"/>
+			<item key="scope" value="0"/>
+			<item key="pattern" value="marketplace"/>
+			<item key="limitTo" value="1"/>
+			<item key="modelElement" value=""/>
+			<item key="isCaseSensitive" value="false"/>
+			<item key="includeInterpreterEnvironment" value="false"/>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.dltk.internal.ui.text.QuickOutline">
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_WIDTH" value="614"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_HEIGHT" value="374"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_X_ORIGIN" value="674"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_Y_ORIGIN" value="241"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="true"/>
+	</section>
+</section>

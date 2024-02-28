@@ -1,0 +1,15 @@
+{
+    "name": "domin/htdocs",
+    "autoload": {
+        "psr-4": {
+            "Domin\\Htdocs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jefferson Domingos",
+            "email": "dominguesmorais@hotmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,36 @@
+<?php
+
+abstract class Animal {
+    
+    public function falar(){
+        
+        return "som";
+        
+    }
+    
+    public function mover(){
+        
+        return "anda";
+        
+    }
+    
+}
+
+class Cachorro extends Animal {
+    
+    public function falar(){
+        
+        return "late";
+        
+    }
+    
+    
+}
+
+$pluto = new Cachorro();
+
+echo $pluto->falar() . "<br/>";
+echo $pluto->mover() . "<br/>";
+
+?>
+

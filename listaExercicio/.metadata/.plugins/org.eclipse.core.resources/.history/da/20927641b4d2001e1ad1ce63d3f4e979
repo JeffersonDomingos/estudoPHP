@@ -1,0 +1,13 @@
+<?php
+
+class DelRey {
+    
+    public function empurrar(){
+        
+        
+        
+    }
+    
+}
+
+?>

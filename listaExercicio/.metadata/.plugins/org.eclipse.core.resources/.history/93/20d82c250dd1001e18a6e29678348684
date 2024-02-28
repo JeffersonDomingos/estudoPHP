@@ -1,0 +1,15 @@
+<?php
+
+interface Veiculo {
+    
+    public function acelerar($velocidade){
+        
+        
+        
+    }
+    
+}
+
+
+?>
+

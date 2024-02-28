@@ -1,0 +1,13 @@
+<?php 
+
+require_once 'config.php';
+
+$cad = new Cadastro();
+
+$cad->setNome("Jefferson");
+$cad->setEmail("jefferson@gmail.com");
+$cad->setSenha("123456");
+
+echo $cad;
+
+?>

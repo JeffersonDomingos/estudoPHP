@@ -1,0 +1,20 @@
+<?php
+
+// REQUIRE_ONCE 'PESSOA.PHP';
+
+class Programador extends Pessoa {
+    
+    public function verDadosProgramador(){
+        
+        $this->verDado();
+        
+    }
+    
+}
+
+$objeto = new Programador();
+
+$objeto->verDado();
+
+
+?>

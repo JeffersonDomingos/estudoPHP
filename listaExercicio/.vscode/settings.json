@@ -1,0 +1,5 @@
+{
+    "intelephense.environment.phpVersion": "8.2.12",
+    "php-intellisense.trace.server": "off",
+    "composer.bin": ""
+}

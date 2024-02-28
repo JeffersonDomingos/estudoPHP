@@ -1,0 +1,16 @@
+<?php
+
+interface Veiculo {
+    
+    
+    echo "O veículo engatou a marcha " . $marcha;
+}
+
+
+
+}
+
+    
+}
+
+?>

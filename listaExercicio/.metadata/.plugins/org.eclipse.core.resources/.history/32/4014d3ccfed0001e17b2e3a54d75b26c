@@ -1,0 +1,18 @@
+<?php
+
+class Programador extends Pessoa {
+    
+    public function verDadosProgramador(){
+        
+        $this->verDado();
+        
+    }
+    
+}
+
+$objeto = new Programador();
+
+$objeto->verDadosProgramador();
+
+
+?>

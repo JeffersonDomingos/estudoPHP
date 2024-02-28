@@ -1,0 +1,13 @@
+<?php
+
+class DelRey extends Veicuo {
+    
+    public function empurrar(){
+        
+        
+        
+    }
+    
+}
+
+?>
