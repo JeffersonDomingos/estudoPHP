@@ -5,6 +5,7 @@ class Documento {
     
     
   private $numero;
+ 
   
   public function getNumero(){
       

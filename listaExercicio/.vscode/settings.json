@@ -1,5 +1,9 @@
 {
     "intelephense.environment.phpVersion": "8.2.12",
     "php-intellisense.trace.server": "off",
-    "composer.bin": ""
+    "composer.bin": "",
+    "explorer.compactFolders": true,
+    "cSpell.onlyReportFor": ["text"],
+    "cSpell.onlyReportIfMisspelled": true
+
 }
